@@ -11,9 +11,9 @@ public class PalindromeNumber {
         }
         System.out.println(rev);
         if (orgNum==rev){
-            System.out.println(orgNum+"  Palindrome number");
+            System.out.println(orgNum+"   Palindrome number");
         }else {
-            System.out.println(orgNum+"  Not Palindrome NUmber");
+            System.out.println(orgNum+"   Not Palindrome NUmber");
         }
     }
 }
