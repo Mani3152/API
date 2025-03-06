@@ -10,7 +10,7 @@ public class NumberOfDigts {
             num=num/10;
             count++;
         }
-        System.out.println(count);
+        System.out.println(count); // understanding git
 
 
 
