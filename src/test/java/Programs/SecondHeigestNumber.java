@@ -18,5 +18,5 @@ public class SecondHeigestNumber {
         System.out.println("Minimum: " + min);
         System.out.println("Second Minimum: " + secmin);
     }
-    }
+}
 

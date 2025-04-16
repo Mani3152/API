@@ -13,8 +13,6 @@ public class NumberOfDigts {
         System.out.println(count); // understanding git
 
 
-        System.out.println("Hello");
-
 
 //Sum of digits
 //        while (num>0){

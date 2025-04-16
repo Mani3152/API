@@ -17,7 +17,7 @@ public class ReverseNumber {
 
         StringBuilder sb=new StringBuilder();
         sb.append(num);
-      StringBuilder rev=  sb.reverse();
+       StringBuilder rev=  sb.reverse();
         System.out.println(rev);
     }
 }
